@@ -4,7 +4,7 @@
 
 
 <h3 align="left">About Me</h3>
-<p align="left">Sou uma Analista de Desenvolvimento de Sistemas e atualmente me graduando em Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba. Estou comprometida em aprimorar minhas habilidades técnicas e práticas a cada oportunidade.
+<p align="left">Sou uma Analista de Desenvolvimento de Sistemas e estou comprometida em aprimorar minhas habilidades técnicas e práticas a cada oportunidade.
 
 <h3 align="left">Skills</h3>
 <p align="left">Como Analista de Desenvolmento de Sistemas com experiencia em:
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=843DFF&color:FFF)](giovanademiranda03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=843DFF&color:FFF)](https://www.linkedin.com/in/giovana-de-miranda/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=843DFF&color:FFF)](https://www.instagram.com/gioymir/)
 
